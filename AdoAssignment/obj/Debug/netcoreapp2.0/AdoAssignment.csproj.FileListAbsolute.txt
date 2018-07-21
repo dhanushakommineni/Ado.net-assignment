@@ -1,0 +1,11 @@
+c:\users\dhanusha.kommineni\source\repos\AdoAssignment\AdoAssignment\bin\Debug\netcoreapp2.0\AdoAssignment.deps.json
+c:\users\dhanusha.kommineni\source\repos\AdoAssignment\AdoAssignment\bin\Debug\netcoreapp2.0\AdoAssignment.runtimeconfig.json
+c:\users\dhanusha.kommineni\source\repos\AdoAssignment\AdoAssignment\bin\Debug\netcoreapp2.0\AdoAssignment.runtimeconfig.dev.json
+c:\users\dhanusha.kommineni\source\repos\AdoAssignment\AdoAssignment\bin\Debug\netcoreapp2.0\AdoAssignment.dll
+c:\users\dhanusha.kommineni\source\repos\AdoAssignment\AdoAssignment\obj\Debug\netcoreapp2.0\AdoAssignment.csprojAssemblyReference.cache
+c:\users\dhanusha.kommineni\source\repos\AdoAssignment\AdoAssignment\obj\Debug\netcoreapp2.0\AdoAssignment.csproj.CoreCompileInputs.cache
+c:\users\dhanusha.kommineni\source\repos\AdoAssignment\AdoAssignment\obj\Debug\netcoreapp2.0\AdoAssignment.AssemblyInfoInputs.cache
+c:\users\dhanusha.kommineni\source\repos\AdoAssignment\AdoAssignment\obj\Debug\netcoreapp2.0\AdoAssignment.AssemblyInfo.cs
+c:\users\dhanusha.kommineni\source\repos\AdoAssignment\AdoAssignment\bin\Debug\netcoreapp2.0\AdoAssignment.pdb
+c:\users\dhanusha.kommineni\source\repos\AdoAssignment\AdoAssignment\obj\Debug\netcoreapp2.0\AdoAssignment.dll
+c:\users\dhanusha.kommineni\source\repos\AdoAssignment\AdoAssignment\obj\Debug\netcoreapp2.0\AdoAssignment.pdb
